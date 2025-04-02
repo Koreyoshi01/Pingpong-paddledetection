@@ -1,0 +1,6 @@
+dataset/
+PaddleDetection/dataset/
+work/img/
+work/export_model/
+work/model/
+work/ppq
